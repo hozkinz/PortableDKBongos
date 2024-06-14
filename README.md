@@ -9,7 +9,7 @@ Requires Nintendo.h: https://github.com/NicoHood/Nintendo
 Requires TMRpcm.h: https://github.com/TMRh20/TMRpcm
 Ty for your libraries.
 
-If you would like to see the process of how I made these, watch the youtube video here (Set to go live 08/06/2024 14:00 UK time):
+If you would like to see the process of how I made these, watch the youtube video here:
 
 [![portabledkbongosyoutubethumbnail](https://img.youtube.com/vi/0D6J7enspVc/0.jpg)](https://www.youtube.com/watch?v=0D6J7enspVc)
 
